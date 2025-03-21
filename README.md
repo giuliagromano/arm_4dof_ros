@@ -6,4 +6,4 @@ Adding a camera sensor to the robot.
 Creation of a ROS publisher node that reads the joint state and sends joint position commands to the
 robot
 
-Read the Report file to see more.
+The complete report is available [here](./Report.pdf).
